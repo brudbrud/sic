@@ -1,2 +1,2 @@
 * boo
-is a bootstrap template for harp
+bootstrap harp boilerplate
